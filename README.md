@@ -1,6 +1,8 @@
 # GCN_res-CS-v2
 This is an improvement of the  [(GCN_res + 8 layers)](https://github.com/ytchx1999/ogbn_arxiv_GCN_res)  model, using the C&amp;S method. **This is the v2 version(adjust parameters).**
 
+Our paper is available at [https://arxiv.org/pdf/2105.08330.pdf](https://arxiv.org/pdf/2105.08330.pdf).
+
 ### ogbn-arxiv
 
 + Check out the model：[(GCN_res + 8 layers)](https://github.com/ytchx1999/ogbn_arxiv_GCN_res)
